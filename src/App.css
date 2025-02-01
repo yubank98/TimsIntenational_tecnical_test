@@ -1,0 +1,24 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 97vh;
+  width: 98vw;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: "Inter", sans-serif;
+  color: var(--color);
+  background-color: var(--background-color);
+}
+
+.content {
+  flex: 1;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 25px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  padding: 16px;
+}
