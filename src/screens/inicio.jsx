@@ -1,6 +1,6 @@
 import React from "react";
 import OptionGrid from "../components/OptionsGrid";
-import "../app.css";
+import "../App.css";
 
 const Home = () => {
   return (
